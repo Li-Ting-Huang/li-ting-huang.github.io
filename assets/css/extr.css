@@ -1,0 +1,10 @@
+.nav-menu span{
+    font-size: 30px;
+  }
+
+.nav-menu a i,
+.nav-menu a:focus i {
+  font-size: 35px;
+  padding-right: 8px;
+  color: #fff;
+}
